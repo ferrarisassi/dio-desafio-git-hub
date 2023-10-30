@@ -2,7 +2,7 @@
 Desafio de Projeto sobre Git/GitHub - [Curso DIO](https://web.dio.me/track/b19b1586-8a94-4eb7-95af-15d785b6e96e)
 
 Arrumei o git da mesma forma que o conteúdo é apresentado no curso.
-\nCada tópico numerado conterá o conteúdo e projetos descritos nos pontos abaixo. 
+Cada tópico numerado conterá o conteúdo e projetos descritos nos pontos abaixo. 
 
 Estes são os tópicos:
 1. Princípios de Desenvolvimento de Jogos
