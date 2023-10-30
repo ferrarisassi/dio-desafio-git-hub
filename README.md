@@ -6,7 +6,7 @@ Cada tópico numerado conterá o conteúdo e projetos descritos nos pontos abaix
 
 Estes são os tópicos:
 1. Princípios de Desenvolvimento de Jogos
-  - Bootcamps DIO: Educação Gratuita e Empregabilidade Juntas!
+    - Bootcamps DIO: Educação Gratuita e Empregabilidade Juntas!
   - Mercado e Carreira em Desenvolvimento de Jogos
   - Introdução ao Desenvolvimento e Criação de Jogos
   - Versionamento de Códigos com Git e GitHub
